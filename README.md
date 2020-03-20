@@ -1,2 +1,2 @@
 # esercizio04
-creato programma che raddoppia i numeri dati
+creato programma che triplica i numeri dati
